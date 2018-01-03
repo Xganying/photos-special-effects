@@ -1,0 +1,26 @@
+<settings>
+  <General_Properties>
+    <position value="center"/>
+    <path value="ImageScrollerFX"/>
+    <showAbout value="true"/>
+  </General_Properties>
+  <Background_Properties>
+    <fillType value="solid"/>
+    <backgroundColor1 value=""/>
+    <backgroundColor2 value=""/>
+    <backgroundAlpha value="0"/>
+    <bgCornerRadius value="0"/>
+    <gradientRotation value="0"/>
+    <gradientRatio value="0"/>
+    <gradientPosX value="0"/>
+    <gradientPosY value="0"/>
+  </Background_Properties>
+  <Shade_Properties>
+    <useShade value="false"/>
+    <shadeColor value=""/>
+    <shadeAlpha value="0"/>
+    <shadeRatio value="0"/>
+    <shadeWidth value="0"/>
+    <shadeHeight value="0"/>
+  </Shade_Properties>
+</settings>
